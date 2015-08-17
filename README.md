@@ -1,5 +1,5 @@
 
-#Developing data products project repository
+#Developing data products project
 
 This is the repository where Developing Data Products Project assignment is located. 
 The shiny application developed is a Blood Pressure Checker. 
@@ -10,7 +10,7 @@ The files of the applications are:
 - ui.R
 - server.R
 
-The application is accesible in: http://frank-md.shinyapps.io/BloodPressureChecker
+The application is accesible in: https://frank-md.shinyapps.io/BloodPressureChecker
 
 A presentation about the app could be visualized in:
 
