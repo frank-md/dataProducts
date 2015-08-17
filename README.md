@@ -14,4 +14,4 @@ The application is accesible in: http://frank-md.shinyapps.io/BloodPressureCheck
 
 A presentation about the app could be visualized in:
 
-http://rpubs.com/frank-md/????
+http://rpubs.com/frank_md/100900
